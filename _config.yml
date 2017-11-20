@@ -2,13 +2,13 @@
 title: Learning
 header-img: img/home-bg.png
 email: pkim2320@gmail.com
-copyright_name: mikaip
+copyright_name: ruuuh20
 description: > # this means to ignore newlines until "baseurl:"
-  my code blog
+  my blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  mikaip
-learn_profile: mikaip
+github_username:  ruuuh20
+learn_profile: ruuuh20
 email_username: pkim2320@gmail.com
 
 # Build settings
